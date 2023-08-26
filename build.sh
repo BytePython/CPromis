@@ -3,4 +3,4 @@
 set -xe
 
 
-clang++ -Wall -Wextra cpromis.cpp -o cpromis
+clang++ -Wall -Wextra  cpromis.cpp -o cpromis
